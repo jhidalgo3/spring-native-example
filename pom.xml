@@ -8,7 +8,7 @@
         <version>2.6.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>me.jhidalgo3</groupId>
     <artifactId>spring-native-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>demo</name>
