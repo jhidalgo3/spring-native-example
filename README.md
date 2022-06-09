@@ -4,6 +4,8 @@ An example application to demo Spring Native.
 
 **Please read [this blog entry](https://hantsy.medium.com/building-your-first-spring-native-application-ae169136e544) for more details**.
 
+Thanks @hantsy!!
+
 ## Prerequisites 
 
 * Java 17
@@ -30,7 +32,7 @@ $ mvn spring-boot:built-image -Pspring-native,build-docker-image
 Run the application in the Docker container.
 
 ```bash
-$ docker run -rm  hantsy/spring-native-demo:latest
+$ docker run -rm  jhidalgo3/spring-native-demo:latest
 ```
 
 ### Build Native Executable Application
